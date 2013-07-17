@@ -1,0 +1,1 @@
+Koans are a wonderful way to learn a language. Here are my solutions to https://github.com/liammclennan/JavaScript-Koans.
